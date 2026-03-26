@@ -1,5 +1,5 @@
 # corcudiscord
-Borra tu mierda de mensajes :D
+[Instala el script](https://raw.githubusercontent.com/Sting614/corcudiscord/main/corcu.user.js) Comprueba antes si tienes Tampermonkey o Violentmonkey
 
 # Corcu
 
