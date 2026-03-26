@@ -1,6 +1,6 @@
 # corcudiscord
 [Instala el script](https://raw.githubusercontent.com/Sting614/corcudiscord/main/corcu.user.js) Comprueba antes si tienes [Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) o [Violentmonkey/Beta](https://chromewebstore.google.com/detail/tampermonkey-beta/gcalenpjmijncebpfijmoaglllgpjagf)
-<a href="https://example.com" target="_blank" rel="noopener noreferrer">Descargar</a>
+
 # Corcu
 
 Corcu es una herramienta para borrar mensajes de Discord de forma masiva desde el navegador, basada en el proyecto antiguo Undiscord y modernizada para un funcionamiento más estable en 2026.
