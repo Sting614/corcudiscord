@@ -1,5 +1,5 @@
 # corcudiscord
-[Instala el script](https://raw.githubusercontent.com/Sting614/corcudiscord/main/corcu.user.js) Comprueba antes si tienes [Tampermonkey]([url](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo)) o [Violentmonkey/Beta]([url](https://chromewebstore.google.com/detail/tampermonkey-beta/gcalenpjmijncebpfijmoaglllgpjagf))
+[Instala el script](https://raw.githubusercontent.com/Sting614/corcudiscord/main/corcu.user.js) Comprueba antes si tienes [Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo) o [Violentmonkey/Beta](https://chromewebstore.google.com/detail/tampermonkey-beta/gcalenpjmijncebpfijmoaglllgpjagf)
 
 # Corcu
 
