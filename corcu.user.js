@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name            Corcu Discord
 // @description     Borra mensajes de Discord de forma masiva (Corcu)
-// @version         1.0
+// @version         1.1
 // @author          Corcu
 // @homepageURL     https://github.com/Sting614/corcudiscord
 // @supportURL      https://github.com/Sting614/corcudiscord/issues
@@ -19,7 +19,7 @@
 	'use strict';
 
 	/* rollup-plugin-baked-env */
-	const VERSION = "1.0";
+	const VERSION = "1.1";
 
 	var themeCss = (`
 /* undiscord window */
